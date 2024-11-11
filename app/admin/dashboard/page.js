@@ -164,28 +164,6 @@ export default async function Dashboard() {
     </div>
     </div>
     </div>
-          {/* <div className="dashboard-main-content__box">
-            <h3 className="dashboard-main-content__box-title">
-              Client Statistic
-            </h3>
-            <div className="dashboard-main-content__box-body">
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. At
-                officiis, facilis sint consequuntur natus earum amet placeat
-                nesciunt aut dolore necessitatibus nam, quod eligendi animi
-                ipsum ratione! Eligendi reprehenderit corporis, at tempore atque
-                dolorum quo vero magnam molestiae reiciendis saepe assumenda rem
-                voluptatum fuga explicabo veniam. Reiciendis corrupti
-                perspiciatis praesentium optio voluptate accusamus recusandae,
-                earum, veniam ipsam iste officiis pariatur, nesciunt tempora
-                eligendi deleniti saepe? Blanditiis impedit hic in optio!
-                Repudiandae vel, repellendus quod molestias porro, qui
-                recusandae, consectetur repellat debitis mollitia quam quas?
-                Assumenda iste autem, dignissimos facere delectus eaque et
-                repellendus in. Vitae saepe deserunt excepturi enim iure.
-              </p>
-            </div>
-          </div> */}
         </div>
       </div>
     </div>
