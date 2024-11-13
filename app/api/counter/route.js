@@ -8,6 +8,7 @@ import { NextResponse } from "next/server";
 export async function GET(request,content ){
     try{
         await mongoose.connect(connectionStr);
+        console.log(connectionStr);
         var result=[];
         var query={};
         var userInfo=await AuthUser();
